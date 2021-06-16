@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TopMenu Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.549">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToNewPageSuccessfully" time="1.713" classname="com.xcart.mobile.testsuit.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToShippingPageSuccessfully" time="2.543" classname="com.xcart.mobile.testsuit.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToComingSoonPageSuccessfully" time="1.438" classname="com.xcart.mobile.testsuit.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToContactUsPageSuccessfully" time="1.855" classname="com.xcart.mobile.testsuit.TopMenuTest" />
+      
+</testsuite>

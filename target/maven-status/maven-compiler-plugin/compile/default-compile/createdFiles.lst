@@ -1,0 +1,5 @@
+com\xcart\mobile\basepage\BasePage.class
+com\xcart\mobile\propertyreader\PropertyReader.class
+com\xcart\mobile\utility\Utility.class
+com\xcart\mobile\pages\HomePage.class
+com\xcart\mobile\App.class

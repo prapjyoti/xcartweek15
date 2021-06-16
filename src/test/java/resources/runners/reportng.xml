@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testsuite" verbose="1" >
+    <listeners>
+        <listener class-name="com.xcart.mobile.customlisteners.CustomListeners"></listener>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+    </listeners>
+    <test name="TopMenu Test" >
+        <classes>
+            <class name="com.xcart.mobile.testsuit.TopMenuTest"></class>
+        </classes>
+    </test>
+    <test name="Test Suit">
+        <classes>
+            <class name="com.xcart.mobile.testsuit.TestSuit"></class>
+        </classes>
+    </test>
+</suite>
